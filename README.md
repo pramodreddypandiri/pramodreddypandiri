@@ -1,9 +1,9 @@
 - Hi, I’m @pramodreddypandiri
 - I’m interested in Programming
 - I have good knowledge on Data Structures and Algorithms
-- I’m looking to collaborate on JavaScript Learning
+- MERN Stack, Typescript, PostgreSQL, GCP, LINUX. 
 - How to reach me ...pramodreddypandiri010@gmail.com
-- Learning Web Development at [ineuron](https://ineuron.ai/)
+- Pursuing MSIT at University of Cincinnati.
 - [My Twitter](https://twitter.com/PramodR82208246)
 - [LinkedIn](https://www.linkedin.com/in/pramod-reddy-pandiri-836145170/)
 <!---
